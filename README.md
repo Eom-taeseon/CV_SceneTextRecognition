@@ -1,6 +1,6 @@
 # 2021년 Computer Vision - Scene Text Recognition
 
-영상 : https://www.youtube.com/watch?v=QI87mSF9fFo
+영상 : https://www.youtube.com/watch?v=udLmhk-tq-c
 
 # Vision Transformer for Fast and Efficient Scene Text Recognition (ICDAR 2021)
 
